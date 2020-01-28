@@ -1,0 +1,36 @@
+/*section-a styles*/
+#section-a h1{
+    text-align: center;
+}
+#section-a. row{
+    margin-top: 20px;
+}
+#section-a .card{
+    font-weight: bold;
+    font-family: "Century Schoolbook L";
+    font-size: 0.7em;
+    padding: 2px;
+}
+#section-a .card:hover{
+    box-shadow:3px 3px 3px 3px #ff0000;
+}
+#section-a .card img{
+    width: 100%;
+    height: 200px;
+}
+#section-a .card img:hover{
+    opacity: 0.3;
+}
+/*section-b styles*/
+#section-b{
+    background-color:white;
+    font-family: "Century Schoolbook L";
+    text-align: center;
+    color: white;
+    background-image: url("../images/facebook-application-icon-147413.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 80vh;
+    padding: 70px;
+}
