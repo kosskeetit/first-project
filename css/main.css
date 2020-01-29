@@ -34,3 +34,24 @@
     height: 80vh;
     padding: 70px;
 }
+/*styling the login signup forms*/
+.auth-signup{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px red;
+}
+.auth-signup img{
+    border: 3px solid red;
+    width: 250px;
+    height: 250px;
+    margin-left: 2%;
+    border-radius: 600px;
+}
+.auth-signup .content-title{
+    text-align: center;
+    font-family: "Century Schoolbook L";
+}
+.auth-signup hr{
+    padding: 2px;
+    margin: 0;
+}
